@@ -21,7 +21,7 @@ This project demonstrates a complete multi-dimensional analytics workflow includ
 ## 📊 Live Interactive Dashboard
 
 You can interact with the live multi-page dashboard application here:  
-👉 **[View the Live Looker Studio Report](https://datastudio.google.com/s/gKhCCHP037c)** *(Note: Replace this placeholder text with your actual shared link)*
+👉 **[View the Live Looker Studio Report](https://datastudio.google.com/s/ifLey5RzGbY)** 
 
 ---
 
